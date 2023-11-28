@@ -1,0 +1,12 @@
+@import "../node_modules/bootstrap/scss/functions";
+@import "./_variables";
+@import "../node_modules/bootstrap/scss/variables-dark";
+@import "../node_modules/bootstrap/scss/maps";
+@import "../node_modules/bootstrap/scss/mixins";
+@import "../node_modules/bootstrap/scss/root";
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+p {
+    margin-bottom: 0;
+}
